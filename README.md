@@ -1,5 +1,5 @@
 # LED strip on BK7231N chip
-This device have microphone on it
+This device have microphone on it  
 I want use it to transfer sound to C2 server 
 
 
